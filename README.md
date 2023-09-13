@@ -7,6 +7,9 @@ Surveyor Diploma, I.T.G. “Pierluigi Nervi”, Lentini
 CS50 Python Final project: [Retirement Calculator](https://github.com/Dimasx93/Portfolio/tree/main/Dimasx93-cs50-problems-2022-python-project)  [Youtube video guide](https://www.youtube.com/watch?v=FFTFLssVJS4&ab_channel=StefanoDiMauro)
 
 
+Smaller Python projects: [Click here](https://github.com/Dimasx93/Portfolio/tree/main/Projects_Python)
+
+
 ### Courses
 CS50's Introduction to Programming with Python, CS50 Harvard
 
