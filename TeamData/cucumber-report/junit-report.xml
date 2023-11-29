@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="18.797">
+    <testcase classname="Test Case no1" name="I add new user" time="10.697">
+        <failure message="expected: &lt;13&gt; but was: &lt;12&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[Given I am on Demo page.....................................................passed
+When I click on Register....................................................passed
+And I am on registration page...............................................passed
+And I enter values:.........................................................passed
+And Click on agree Policy...................................................passed
+And Click on Continue button................................................passed
+And Click on other continue button..........................................passed
+Then Check all submenu items................................................failed
+
+StackTrace:
+org.opentest4j.AssertionFailedError: expected: <13> but was: <12>
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
+	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
+	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:197)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:150)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:145)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:528)
+	at Page_Folder.RegisterPage.subListField(RegisterPage.java:83)
+	at stepDefinitions.StepTest.checkAllSubmenuItems(StepTest.java:91)
+	at ✽.Check all submenu items(file:///C:/Users/dmste/Desktop/Accenture%20Test%20Automation/TeamData/src/test/resources/features/testCase1.feature:26)
+]]></failure>
+    </testcase>
+    <testcase classname="Test Case no1" name="I add new addresses" time="4.433">
+        <system-out><![CDATA[Given I am in My Account page...............................................passed
+When I login................................................................passed
+And I click on Address Book.................................................passed
+And I click on New Address button...........................................passed
+And Enter values:...........................................................passed
+And Click on Country........................................................passed
+And Choose Region State.....................................................passed
+And Check Default box.......................................................passed
+And Click the Continue button...............................................passed
+Then Check address..........................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Test Case no1" name="I modify user's data" time="3.547">
+        <system-out><![CDATA[Given I am in My Account page...............................................passed
+When I login................................................................passed
+And I click on Edit Account.................................................passed
+And I change values:........................................................passed
+Then Click Continue button..................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
