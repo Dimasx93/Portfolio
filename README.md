@@ -12,6 +12,9 @@ Smaller Python projects: [Click here](https://github.com/Dimasx93/Portfolio/tree
 Reeborg:Escape the Maze [site](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json) [solution](https://github.com/Dimasx93/Portfolio/blob/main/Projects_Python/Reeborg-Escaping_the_Maze.py)
 
 ### Courses
+
+Accenture Test Automation Bootcamp
+
 CS50's Introduction to Programming with Python, CS50 Harvard
 
 Introduction to C# Programming and Unity, Coursera (University of Colorado System)
