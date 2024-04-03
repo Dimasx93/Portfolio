@@ -13,6 +13,8 @@ Reeborg:Escape the Maze [site](https://reeborg.ca/reeborg.html?lang=en&mode=pyth
 
 ### Courses
 
+Accenture DevOps deep dive and Cloud Bootcamp
+
 Accenture Test Automation Bootcamp
 
 CS50's Introduction to Programming with Python, CS50 Harvard
