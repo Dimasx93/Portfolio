@@ -46,9 +46,9 @@ Welcome to my portfolio! I'm a passionate **Junior Developer** with a strong fou
   - Learning Data Analytics (LinkedIn Learning, Robin Hunt)
 
 ## 📞 Let's Connect
-📧 Email: [dm.stefano93@gmail.com]  
-💼 LinkedIn: [https://www.linkedin.com/in/stefano-di-mauro-132620190/]
-📂 GitHub: [https://github.com/Dimasx93]
+📧 Email: [dm.stefano93@gmail.com] (dm.stefano93@gmail.com) 
+💼 LinkedIn: [https://www.linkedin.com/in/stefano-di-mauro-132620190/](https://www.linkedin.com/in/stefano-di-mauro-132620190/)
+📂 GitHub: [https://github.com/Dimasx93](https://github.com/Dimasx93)
 
 🚀 Looking for opportunities in **Backend Development, DevOps, or Full-Stack Development**. Let's build something amazing together!
 
