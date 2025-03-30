@@ -1,36 +1,54 @@
-# Portfolio Junior Developer
- 
-### Education
-Surveyor Diploma, I.T.G. “Pierluigi Nervi”, Lentini
+# 👨‍💻 Stefano Di Mauro - Junior Developer
 
-### Projects
-CS50 Python Final project: [Retirement Calculator](https://github.com/Dimasx93/Portfolio/tree/main/Dimasx93-cs50-problems-2022-python-project)  [Youtube video guide](https://www.youtube.com/watch?v=FFTFLssVJS4&ab_channel=StefanoDiMauro)
+Welcome to my portfolio! I'm a passionate **Junior Developer** with a strong foundation in **Python, SQL, DevOps, and Web Development**. Constantly learning and improving, I have completed several projects and certifications that showcase my problem-solving abilities and enthusiasm for backend development.
 
+## 🚀 Skills & Technologies
+- **Languages:** Python, SQL, JavaScript, C#
+- **Backend Development:** API Development, Database Management, Automation
+- **Web Development:** HTML, CSS, JavaScript
+- **DevOps & Cloud:** CI/CD, Cloud Computing (AWS, Azure basics), Docker, Kubernetes
+- **Testing & Automation:** Test Automation, Unit Testing, Selenium
+- **Data & Analytics:** SQL Queries, Data Processing, Reporting
 
-Smaller Python projects: [Click here](https://github.com/Dimasx93/Portfolio/tree/main/Projects_Python)
+## 🎓 Education
+- **Surveyor Diploma** - I.T.G. “Pierluigi Nervi”, Lentini
 
-Reeborg:Escape the Maze [site](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json) [solution](https://github.com/Dimasx93/Portfolio/blob/main/Projects_Python/Reeborg-Escaping_the_Maze.py)
+## 📌 Projects
+- **[Retirement Calculator](https://github.com/your-github/retirement-calculator) (CS50 Python Final Project)**  
+  🔹 A Python-based calculator to estimate retirement savings. 
+  🔹 **[YouTube Video Guide](https://youtu.be/your-video-link)**
 
-### Courses
+- **[Smaller Python Projects](https://github.com/your-github/smaller-python-projects)**  
+  🔹 A collection of Python mini-projects, covering automation, data analysis, and problem-solving.
 
-Accenture DevOps deep dive and Cloud Bootcamp
+- **[Reeborg: Escape the Maze](https://reeborg.ca)**  
+  🔹 Site solution using Python-based logic to solve the maze challenge.
 
-Accenture Test Automation Bootcamp
+## 📚 Certifications & Courses
+- **DevOps & Cloud:**
+  - Accenture DevOps Deep Dive & Cloud Bootcamp
+  - Accenture Test Automation Bootcamp
 
-CS50's Introduction to Programming with Python, CS50 Harvard
+- **Programming & Software Development:**
+  - CS50's Introduction to Programming with Python (Harvard)
+  - CS50’s Introduction to Computer Science (Harvard)
+  - Introduction to C# Programming & Unity (University of Colorado, Coursera)
+  - Programming for Everybody (University of Michigan, Coursera)
+  - Introduction to Programming & Web Development (Turing School)
 
-Introduction to C# Programming and Unity, Coursera (University of Colorado System)
+- **Web Development & JavaScript:**
+  - HTML, CSS, and JavaScript for Web Developers (John Hopkins University, Coursera)
+  - Introduction to JavaScript: The Basics (Coursera)
 
-Prepare Data for Exploration, Coursera (Google)
+- **Data & SQL:**
+  - Prepare Data for Exploration (Google, Coursera)
+  - SQL: Data Reporting & Analysis (LinkedIn Learning)
+  - Learning Data Analytics (LinkedIn Learning, Robin Hunt)
 
-SQL: Data Reporting and Analysis, LinkedIn Learning
+## 📞 Let's Connect
+📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+📂 GitHub: [github.com/your-github](https://github.com/your-github)  
 
-HTTML, CSS, and JavaScript for Web Developers, : Coursera (John Hopkins University)
+🚀 Looking for opportunities in **Backend Development, DevOps, or Full-Stack Development**. Let's build something amazing together!
 
-Introduction to JavaScript: The Basics, Coursera
-
-Learning Data Analytics, LinkedIn Learning (By Robin Hunt)
-
-Programming for Everybody (Getting Started with Python), Coursera (University of Michigan)
-
-Introduction to programming and web development, Turing School of Software & Design
