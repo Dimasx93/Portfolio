@@ -1,5 +1,54 @@
-title: My Portfolio
-logo: /assets-img/profile-pic.jpg
-#description: Backend enthusiast, good knowledge of Python and SQL, trying to improve and possibly find a position for Backend/DevOps.
+title: "Stefano Di Mauro | Junior Developer"
+logo: "/assets-img/profile-pic.jpg"
+description: "Aspiring Backend & DevOps Engineer | Passionate about Python, SQL, and Cloud Technologies. Dedicated to building efficient, scalable, and robust solutions."
 show_downloads: false
 theme: jekyll-theme-minimal
+
+github:
+  is_project_page: false
+  repository_url: "https://github.com/dimasx93"
+  
+social_links:
+  linkedin: "https://www.linkedin.com/in/stefano-di-mauro"
+  github: "https://github.com/dimasx93"
+  email: "your-email@example.com"
+
+projects:
+  - name: "CS50 Python Final Project: Retirement Calculator"
+    description: "A Python-based retirement calculator with advanced financial models and logic."
+    link: "https://www.youtube.com/watch?v=XYZ"
+  - name: "Smaller Python Projects"
+    description: "Various Python scripts aimed at solving problems ranging from basic tasks to more complex automation."
+    link: "https://github.com/dimasx93/python-projects"
+  - name: "Reeborg: Escape the Maze Solution"
+    description: "A solution to the Reeborg maze-solving problem using Python, focusing on algorithms and problem-solving."
+    link: "https://github.com/dimasx93/reeborg-maze"
+
+education:
+  - name: "Surveyor Diploma"
+    institution: "I.T.G. “Pierluigi Nervi”, Lentini"
+    link: "https://www.example-education-link.com"
+
+courses:
+  - name: "Accenture DevOps Deep Dive and Cloud Bootcamp"
+    institution: "Accenture"
+    link: "https://www.accenture.com/us-en/insights/technology"
+  - name: "CS50’s Introduction to Programming with Python"
+    institution: "Harvard University"
+    link: "https://cs50.harvard.edu/python"
+  - name: "SQL: Data Reporting and Analysis"
+    institution: "LinkedIn Learning"
+    link: "https://www.linkedin.com/learning/sql-data-reporting-and-analysis"
+  - name: "Introduction to Programming and Web Development"
+    institution: "Turing School of Software & Design"
+    link: "https://www.turing.com/learn"
+
+footer:
+  text: "Designed and Developed by Stefano Di Mauro"
+  links:
+    - label: "Privacy Policy"
+      url: "/privacy-policy"
+    - label: "Contact"
+      url: "/contact"
+
+
