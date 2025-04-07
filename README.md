@@ -14,15 +14,16 @@ Welcome to my portfolio! I'm a passionate **Junior Developer** with a strong fou
 - **Surveyor Diploma** - I.T.G. “Pierluigi Nervi”, Lentini
 
 ## 📌 Projects
-- **[Retirement Calculator]([https://github.com/your-github/retirement-calculator](https://github.com/Dimasx93/Portfolio/tree/main/Dimasx93-cs50-problems-2022-python-project)) (CS50 Python Final Project)**  
-  🔹 A Python-based calculator to estimate retirement savings. 
-  🔹 **[YouTube Video Guide]([https://youtu.be/your-video-link](https://www.youtube.com/watch?v=FFTFLssVJS4&t=46s))**
+- **[Retirement Calculator](https://github.com/Dimasx93/Portfolio/tree/main/Dimasx93-cs50-problems-2022-python-project)**  
+  🔹 A Python-based calculator to estimate retirement savings.  
+  🔹 **[YouTube Video Guide](https://www.youtube.com/watch?v=FFTFLssVJS4&t=46s)**
 
-- **[Smaller Python Projects]([https://github.com/your-github/smaller-python-projects](https://github.com/Dimasx93/Portfolio/tree/main/Projects_Python))**  
+- **[Smaller Python Projects](https://github.com/Dimasx93/Portfolio/tree/main/Projects_Python)**  
   🔹 A collection of Python mini-projects, covering automation, data analysis, and problem-solving.
 
-- **[Current CodeAcademy course, Python soft with AI]([https://reeborg.ca](https://github.com/Dimasx93/CodeAcademy))**  
+- **[Current CodeAcademy Course](https://github.com/Dimasx93/CodeAcademy)**  
   🔹 Course with CodeAcademy, going from OOP to MongoDB and SQL, data analysis, Flask and more.
+
 
 ## 📚 Certifications & Courses
 - **DevOps & Cloud:**
