@@ -14,6 +14,10 @@ Welcome to my portfolio! I'm a passionate **Junior Developer** with a strong fou
 - **Surveyor Diploma** - I.T.G. “Pierluigi Nervi”, Lentini
 
 ## 📌 Projects
+- **[Aruodas Web Scrape Project](https://github.com/Dimasx93/Aruodas_web_scrape_project)**  
+  🔹 A Python Flask App created to scrape data from Aruodas and store it in a MongoDB (CodeAcademy final project).  
+  🔹 **[YouTube Video Guide](https://www.youtube.com/watch?v=XOjyN4PEl7k&ab_channel=StefanoDiMauro)**
+
 - **[Retirement Calculator](https://github.com/Dimasx93/Portfolio/tree/main/Dimasx93-cs50-problems-2022-python-project)**  
   🔹 A Python-based calculator to estimate retirement savings.  
   🔹 **[YouTube Video Guide](https://www.youtube.com/watch?v=FFTFLssVJS4&t=46s)**
